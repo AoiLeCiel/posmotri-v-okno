@@ -324,7 +324,6 @@ ol {
   object-position: center;
 }
 
-/* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
